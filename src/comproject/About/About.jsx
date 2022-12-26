@@ -13,7 +13,7 @@ const About = () => {
       </div>
       </div>
       <div className="a-right">
-        <h2 style={{color:"blue"}}>About me..</h2>
+        <h2 className='a-about' style={{color:"blue"}}>About me..</h2>
         <h3><p className='a-about'>ok you are here to know about me,glad to see you. 
             basically am a fresher in Front-End Developer,just joined 'Prostack Academy' to learn something and get placed in a IT field.</p></h3>
       </div>

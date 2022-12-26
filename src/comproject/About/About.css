@@ -41,4 +41,11 @@ flex: 1;
 
 .a-about{
     font-weight: 300px;
+   
 }
+
+.a-about{
+    height: 10%;
+    animation: move 10s ease-in-out infinite alternate;
+}
+
