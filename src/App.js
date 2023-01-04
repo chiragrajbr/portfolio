@@ -29,6 +29,7 @@ import Job from './Project/Job'*/
 import Intro from "./comproject/intro/Intro"
 import About from "./comproject/About/About"
 import Contact from "./comproject/contact/Contact"
+import Experence from "./comproject/ex/experence"
 
 
 const App = () => {
@@ -36,6 +37,7 @@ const App = () => {
     <div >
       <Intro/>
       <About/>
+      <Experence />
       <Contact/>
      
     </div>
